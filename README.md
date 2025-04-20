@@ -5,11 +5,11 @@ In reviewing the data in the Performance Lawn Equipment Database, Elizabeth Burk
 
 ## Problem Statement
 The objective of this business analytics project is to perform trendlines and regression analysis in excel to develop solution to the following key questions: 
-•	What might have happened if PLE supplier did not take the initiative as of August 2015?
-•	How can PLE defects reduce even more in the future?
+-	What might have happened if PLE supplier did not take the initiative as of August 2015?
+-	How can PLE defects reduce even more in the future?
 
 ## Data Source and Reference
 Evans, J. R. (2021). “Business analytics: Methods, models, and decisions (3rd ed.)”. Boston, MA: Pearson.
 
-Please click on the following link to view pdf presentation report
+Please click on the following link to view pdf presentation report [Performance Lawn Report.pdf](https://github.com/BukolaOrire/Trendlines_and_Regression/blob/main/Performance_Lawn_Report.pdf)
 
