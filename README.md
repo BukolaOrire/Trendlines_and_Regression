@@ -1,4 +1,4 @@
-# Performance Lawn Analysis using Excel 
+# Performance Lawn Analytics using Excel 
 
 
 ![WhatsApp Image 2025-04-20 at 10 53 46_b39040dc](https://github.com/user-attachments/assets/4b84b9db-a989-4f42-a4db-d33b2e6c6e29)
