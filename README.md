@@ -1,5 +1,8 @@
 # Performance Lawn Analysis using Excel 
 
+
+![WhatsApp Image 2025-04-20 at 10 53 46_b39040dc](https://github.com/user-attachments/assets/4b84b9db-a989-4f42-a4db-d33b2e6c6e29)
+
 ## Project Overview
 In reviewing the data in the Performance Lawn Equipment Database, Elizabeth Burke noticed that defects received from suppliers have decreased (worksheet Defects After Delivery). Upon investigation, she learned that in 2014, PLE experienced some quality problems due to an increasing number of defects in materials received from suppliers. The company instituted an initiative in August 2015 to work with suppliers to reduce these defects, to more closely coordinate deliveries, and to improve materials quality through reengineering supplier production policies. Ms. Burke noted that the program appeared to reverse an increasing trend in defects; she would like to predict what might have happened had the supplier initiative not been implemented and how the number of defects might further be reduced in the near future.
 
